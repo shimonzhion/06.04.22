@@ -1,0 +1,111 @@
+body {
+  background: aqua;
+  margin-left: 0%;
+}
+.div1 {
+  background-color: white;
+  border: 2px rgb(57, 56, 56) solid;
+  border-radius: 10px;
+  width: 20vw;
+  height: 5.5vh;
+  text-align: right;
+  padding-right: 15px;
+  padding-top: 15px;
+  color: white;
+  font-size: 20px;
+  margin-bottom: 0.8px;
+  margin-left: -1%;
+  ;
+}
+
+.div1:hover {
+  transition: 0.5s;
+  color: black;
+  padding-right: 13px;
+  background: linear-gradient(to bottom, #585757 0.9%, #ffffff 11%);
+  box-shadow: 2px 3px black;
+  border: 2px black solid;
+  border-radius: 10px;
+}
+
+.div3 {
+  background-color: black;
+  width: 10vw;
+  height: 4vh;
+  z-index: auto;
+  position: absolute;
+  top: 8%;
+  border-radius: 8px;
+  padding-right: 10px;
+  margin-left: -1%;
+}
+.div4 {
+  background-color: black;
+  width: 10vw;
+  height: 4vh;
+  z-index: auto;
+  position: absolute;
+  top: 17%;
+  border-radius: 8px;
+  padding-right: 10px;
+  margin-left: -1%;
+}
+.div5 {
+  background-color: black;
+  width: 10vw;
+  height: 4vh;
+  z-index: auto;
+  position: absolute;
+  top: 44%;
+  border-radius: 8px;
+  padding-right: 10px;
+  margin-left: -1%;
+}
+.div6 {
+  background-color: black;
+  width: 10vw;
+  height: 4vh;
+  z-index: auto;
+  position: absolute;
+  top: 53%;
+  border-radius: 8px;
+  padding-right: 10px;
+  margin-left: -1%;
+}
+
+.div7 {
+  background-color: black;
+  width: 10vw;
+  height: 4vh;
+  z-index: auto;
+  position: absolute;
+  top: 79%;
+  border-radius: 8px;
+  padding-right: 10px;
+  margin-left: -1%;
+}
+.div8 {
+  background-color: black;
+  width: 10vw;
+  height: 4vh;
+  z-index: auto;
+  position: absolute;
+  top: 88.5%;
+  border-radius: 8px;
+  padding-right: 10px;
+  margin-left: -1%;
+}
+.div3:hover,
+.div4:hover,
+.div5:hover,
+.div6:hover,
+.div7:hover,
+.div8:hover {
+  transition: padding-right 0.5ms;
+  color: white;
+  text-align: right;
+  padding-right: 8.5px;
+  /* padding-top: 2px; */
+  background: linear-gradient(to bottom, #ffffff 0.9%, #000000 11%);
+  box-shadow: 1px 2px gray;
+}
