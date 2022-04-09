@@ -1,7 +1,13 @@
 body {
-  background: aqua;
   margin-left: 0%;
+  width: 100vw;
+  background-image: url(57ad5d2a8830e7c9087e3283d5b5b200.jpg);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: 50%;
+
 }
+
 .div1 {
   background-color: white;
   border: 2px rgb(57, 56, 56) solid;
